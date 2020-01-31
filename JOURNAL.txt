@@ -1,4 +1,15 @@
-This is the journal for 
+Unit 3 Journal
 
 Wednesday, January 29th: 
-  Today, 
+  Today, we had an introduction to Python. We talked about our "wish list" for a programming language which included things such as few brackets/spaces, flexible syntax, documentation/comments, functions, variables, data types, printing, logical comparisons, libraries, control structures, and more. We then talked about how to do these sorts of things in Python and talked about the following data types:
+  1. Integers
+  2. Lists
+  3. Floats/doubles
+  4. Strings
+  5. Tuples
+  6. Dictionary
+   From there, we applied these and practiced a few programs before ending class learning about "bubble sort," an important sorting mechanism.
+   
+Wednesday, February 
+   
+   
