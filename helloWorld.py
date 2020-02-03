@@ -28,20 +28,9 @@ for ele in val: # takes every element of the array
 print("The sum is {}".format(sumVal))
 
 
-# 4. we have a defined array (list of numbers) with
-num = [3, 38, 5, 44, 15, 36, 26, 27, 2, 46, 4, 19, 47, 48, 50]
-n = len(val)
-
-#for x in range(n-1):
-  #  leftElement = val[x]
-  #  rightElement = val[x+1]
-   # print("Primary number {}, secondary number {}.".format(leftElement, rightElement)
-   # if leftElement > rightElement:
-   #     num[x], num[x+1] = num[x+1], num[x]
-
-
-
-# Read an integer:
-a = int(input())
-print ('The next number for the number' + a + 'is' + (a+1))
-print ('The previous number for the number' + a + 'is' + (a-1))
+# 4. bubble sort
+n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1] :
+                arr[j], arr[j+1] = arr[j+1], arr[j]
