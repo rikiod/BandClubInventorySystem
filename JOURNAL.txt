@@ -14,6 +14,7 @@ Wednesday, February 5th:
   We learned that this next unit will have two projects (one desktop app, one web development -- both in Python).
   1. Computational Thinking needs to be shown in the development (decomposition --> pattern recognition --> abstraction --> computational thinking) explicitly. 
   2. We did a warmup: given ten integers, find the largest prime factor. 
-  3. My client is Lingye and my task is to create a library of musical instruments. 
+  3. We created a library which we will fill with important functions.
+  4. My client is Lingye and my task is to create a library of musical instruments. 
    
    
