@@ -10,6 +10,10 @@ Wednesday, January 29th:
   6. Dictionary
    From there, we applied these and practiced a few programs before ending class learning about "bubble sort," an important sorting mechanism.
    
-Wednesday, February 
+Wednesday, February 5th:
+  We learned that this next unit will have two projects (one desktop app, one web development -- both in Python).
+  1. Computational Thinking needs to be shown in the development (decomposition --> pattern recognition --> abstraction --> computational thinking) explicitly. 
+  2. We did a warmup: given ten integers, find the largest prime factor. 
+  3. My client is Lingye and my task is to create a library of musical instruments. 
    
    
