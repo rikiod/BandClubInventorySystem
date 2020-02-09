@@ -1,6 +1,7 @@
 Unit 3 Journal
+==============
 
-Wednesday, January 29th: 
+**Wednesday, January 29th:**
   Today, we had an introduction to Python. We talked about our "wish list" for a programming language which included things such as few brackets/spaces, flexible syntax, documentation/comments, functions, variables, data types, printing, logical comparisons, libraries, control structures, and more. We then talked about how to do these sorts of things in Python and talked about the following data types:
   1. Integers
   2. Lists
@@ -10,7 +11,7 @@ Wednesday, January 29th:
   6. Dictionary
    From there, we applied these and practiced a few programs before ending class learning about "bubble sort," an important sorting mechanism.
    
-Wednesday, February 5th:
+**Wednesday, February 5th:**
   We learned that this next unit will have two projects (one desktop app, one web development -- both in Python).
   1. Computational Thinking needs to be shown in the development (decomposition --> pattern recognition --> abstraction --> computational thinking) explicitly. 
   2. We did a warmup: given ten integers, find the largest prime factor. 
