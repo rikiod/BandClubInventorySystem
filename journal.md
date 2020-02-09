@@ -17,6 +17,9 @@ Unit 3 Journal
   2. We did a warmup: given ten integers, find the largest prime factor. 
   3. We created a library which we will fill with important functions.
   4. My client is Lingye and my task is to create a library of musical instruments. 
-  5. My PyCharm client isn't working properly so a question I have is how to fix that. 
+  5. My PyCharm client isn't working properly so a question I have is how to fix that.
+  
+**Monday, February 10th:**
+
    
    
