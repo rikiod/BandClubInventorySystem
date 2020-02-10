@@ -20,6 +20,7 @@ Unit 3 Journal
   5. My PyCharm client isn't working properly so a question I have is how to fix that.
   
 **Monday, February 10th:**
+  We started with a warmup about finding the distance between various cities and through this, we used tuples and lists. We also defined a function called distance in myLib.py. 
 
    
    
