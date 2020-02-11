@@ -32,6 +32,8 @@ Unit 3 Journal
 
 Today, we started with a warmup called "Bolt versus Cheetah" and learned about acceleration and velocity, converting it to a time given the distance covered. We used math functions such as sqrt and practiced doing mathematical equations using variables. 
 
+We then worked on calculating the average salary of a group of people within revealing their personal information and practiced with the reduce function.
+
 **Friday, February 14th:** 
 
    
