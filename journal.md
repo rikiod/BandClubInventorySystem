@@ -20,7 +20,12 @@ Unit 3 Journal
   5. My PyCharm client isn't working properly so a question I have is how to fix that.
   
 **Monday, February 10th:**
-  We started with a warmup about finding the distance between various cities and through this, we used tuples and lists. We also defined a function called distance in myLib.py. 
+  We started with a warmup about finding the distance between various cities and through this, we learned how to extract tuples from lists. We also defined a function called distance in myLib.py.
+  Following that, we established a record of tasks in order to see what steps need to be taken to create our client's program for Unit 3. Using that, we began the first step which is planning. We had an interview with our client (in my case, Lingye) and I learned about her needs (see RecordOfTasks.md).
+  
+  Next time, I think I need to start working on establishing what Lingye's needs are in terms of usability. 
+  
+**Tuesday, February 11th**
 
    
    
