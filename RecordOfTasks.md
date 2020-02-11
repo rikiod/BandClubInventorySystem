@@ -11,6 +11,8 @@ This table reflects the five stages of design: planning, design, development, te
 | 4 |
 | 5 |
 
+2/11/2019 
+
 As a developer, what kind of questions would you ask your client in order to find out what you need?
 
 Lingye: designing for musical instruments
@@ -36,3 +38,9 @@ Multiple of one instruments: numbers
 Uneditable is okay
 
 A paragraph about what you need
+
+Worked on hashes (Encryption)
+
+2/12/2020
+
+Found average salary without revealing individual salaries by using salt (added random number)
