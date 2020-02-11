@@ -12,7 +12,6 @@ Unit 3 Journal
   6. Dictionary
    From there, we applied these and practiced a few programs before ending class learning about "bubble sort," an important sorting mechanism.
    
-   
 **Wednesday, February 5th:**
 
   We learned that this next unit will have two projects (one desktop app, one web development -- both in Python).
@@ -22,16 +21,18 @@ Unit 3 Journal
   4. My client is Lingye and my task is to create a library of musical instruments. 
   5. My PyCharm client isn't working properly so a question I have is how to fix that.
   
-  
-**Monday, February 10th:**
+**Tuesday, February 11th:**
 
   We started with a warmup about finding the distance between various cities and through this, we learned how to extract tuples from lists. We also defined a function called distance in myLib.py.
   Following that, we established a record of tasks in order to see what steps need to be taken to create our client's program for Unit 3. Using that, we began the first step which is planning. We had an interview with our client (in my case, Lingye) and I learned about her needs (see RecordOfTasks.md).
   
-  Next time, I think I need to start working on establishing what Lingye's needs are in terms of usability. 
+  Next time, I think I need to start working on establishing what Lingye's needs are in terms of usability.  
   
-  
-**Tuesday, February 11th**
+**Wednesday, February 12t:h**
+
+Today, we started with a warmup called "Bolt versus Cheetah" and learned about acceleration and velocity, converting it to a time given the distance covered. We used math functions such as sqrt and practiced doing mathematical equations using variables. 
+
+**Friday, February 14th:** 
 
    
    
