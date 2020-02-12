@@ -18,6 +18,7 @@ I am going to design an inventory to keep track of my client, Lingye Wu's, vario
 ⑤ Is security important to you? Does your system need to be able to be easily edited?
 
 **Lingye's Answers:**
+
 "I store my instruments in two locations (house and small cafe). The problem is that people from R3-12 take instruments. I use my phone the most. Since I have multiple of one instruments, maybe we could number them. It does not need to be able to be easily edited and security is not very important to me."
 
 The inventory system I am looking for is for my musical instruments. I usually keep them in two places: my house(R1-14) and the small
