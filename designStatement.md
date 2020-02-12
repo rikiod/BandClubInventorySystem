@@ -8,9 +8,13 @@ I am going to design an inventory to keep track of my client, Lingye Wu's, vario
 Questions to be answered:
 
 ① What are the inputs, outputs, and how will those inputs be processed?
+
 ② What is the purpose of this system?
+
 ③ What is a current issue with your legacy system?
+
 ④ How comfortable do you feel with new systems or technologies?
+
 ⑤ Is security important to you? Does your system need to be able to be easily edited?
 
 Lingye's Answers:
