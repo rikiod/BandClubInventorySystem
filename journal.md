@@ -34,6 +34,8 @@ Today, we started with a warmup called "Bolt versus Cheetah" and learned about a
 
 We then worked on calculating the average salary of a group of people within revealing their personal information and practiced with the reduce function. We used encryption by creating a salt and then hashing it using a separate function. This makes it so that the password can not be seen easily. 
 
+For next class, I need to update my Record of Tasks, designStatement, and continue developing the log in/registration system. 
+
 **Friday, February 14th:** 
 
    
