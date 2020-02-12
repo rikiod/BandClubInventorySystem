@@ -1,11 +1,11 @@
 Design Statement
 ================
 
-**My role as a developer:**
+### My role as a developer:
 
 I am going to design an inventory to keep track of my client, Lingye Wu's, various musical instruments. The application, to be operated on a computer, will help my client to keep track of where her instruments are and who has them currently. This is important because currently, people often take her instruments and it is easy for her to lose track of where they are. Thus, I will essentialy be creating a sort of "check out" system. 
 
-Questions to be answered:
+**Questions to be answered:**
 
 ① What are the inputs, outputs, and how will those inputs be processed?
 
@@ -17,7 +17,7 @@ Questions to be answered:
 
 ⑤ Is security important to you? Does your system need to be able to be easily edited?
 
-Lingye's Answers:
+**Lingye's Answers:**
 "I store my instruments in two locations (house and small cafe). The problem is that people from R3-12 take instruments. I use my phone the most. Since I have multiple of one instruments, maybe we could number them. It does not need to be able to be easily edited and security is not very important to me."
 
 The inventory system I am looking for is for my musical instruments. I usually keep them in two places: my house(R1-14) and the small
@@ -47,7 +47,7 @@ find hard tracking by memory since I have too many instruments.
     1. Send a reminder message when the person borrowed my instruments forgot to return
     1. The program only accessable to myself
 
-**My needs as a client:**
+### My needs as a client:
 
 Currently, I have all of my clothes stored under my bed here at ISAK. However, with the residential living that we have here, my clothes sometimes can get easily lost or moved around. My clothes constantly moves between different areas on campus such as my campus, the shower room, the washing machine, drying racks, other houses, or to Asama and KAC. Because of this, it has been easy for me (especially with socks) to lose track of my clothes; over the last semester, I've noticed my clothes dwindling as some of them disappear. 
 
