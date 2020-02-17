@@ -24,3 +24,12 @@ Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC I
 ⑨
 
 ⑩
+
+table of contents:
+record of tasks
+criteria a
+design statement
+journal
+
+make sure to include:
+telos, 
