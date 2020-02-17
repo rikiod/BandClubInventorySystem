@@ -38,5 +38,10 @@ For next class, I need to update my Record of Tasks, designStatement, and contin
 
 **Friday, February 14th:** 
 
+Today, we worked on string practice.
+
+**Monday, February 17th:** 
+
+Today, we began with a programming warmup without a laptop. 
    
    
