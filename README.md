@@ -18,5 +18,5 @@ Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC I
 [Glossary](https://github.com/rikiod/unit3/blob/master/glossary.md)
 
 
-don't forget:
-telos
+To Do List:
+TELOS
