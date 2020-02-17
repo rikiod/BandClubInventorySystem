@@ -1,3 +1,6 @@
+Criteria A: Planning:
+=====================
+
 **Success Criteria:**
 
 1. Must have time stamps so check in and out time can be recorded.
