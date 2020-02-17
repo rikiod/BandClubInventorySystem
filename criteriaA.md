@@ -9,3 +9,10 @@
 7. Must have a black list displayed to everybody
 
 defintion of problem, proposed solution, cfs, appendix in separate file (emails, transcribed mp3, videos)
+
+
+identify the client/advisor
+explicitily consult with the emails and have evidence
+descrihe scenario with explicit refernece to (use appendix)
+choose and justify a solution
+outline comprehensive criteria for success based on feedback
