@@ -1,35 +1,16 @@
 Unit 3 
 ======
 
-Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC ISAK Japan 
+Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC ISAK Japan
 
-**Glossary of things we've been learning:**
+**Links to repository:**
+[Record of Tasks](https://github.com/rikiod/unit3/blob/master/RecordOfTasks.md)
+[Design Statement](https://github.com/rikiod/unit3/blob/master/designStatement.md)
+[Journal](https://github.com/rikiod/unit3/blob/master/journal.md)
+[Criteria A: Planning](https://github.com/rikiod/unit3/blob/master/criteriaA.md)
+Appendix(https://github.com/rikiod/unit3/blob/master/appendix.md)
+Glossary(https://github.com/rikiod/unit3/blob/master/glossary.md)
 
-① Dictionaries
 
-② Tuples (immutable) 
-
-③ Lambda 
-
-④ Map, filter, and reduce
-
-⑤ Hashes
-
-⑥
-
-⑦
-
-⑧
-
-⑨
-
-⑩
-
-table of contents:
-record of tasks
-criteria a
-design statement
-journal
-
-make sure to include:
-telos, 
+don't forget:
+telos
