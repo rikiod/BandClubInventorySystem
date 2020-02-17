@@ -38,10 +38,16 @@ For next class, I need to update my Record of Tasks, designStatement, and contin
 
 **Friday, February 14th:** 
 
-Today, we worked on string practice.
+Today, we practiced with strings using a book called "Automate the Boring Stuff with Python." It was a good way to learn about split, join, and a whole bunch of other commands which can be seen in the stringMan.py file under warmups. 
+
+For the next class, I need to continue practicing these commands so that I have a good grasp on their syntax and usage. 
 
 **Monday, February 17th:** 
 
-Today, we began with a programming warmup without a laptop. 
+Today, we began with a programming warmup without a laptop; it helped me to learn how I need to continue practicing in order to hone my syntax. After that, we did a Kahoot on the physical parts of a computer which was interesting and good review over memory and other things. Lastly, we met with our client to talk about the success criteria which can be seen in the Criteria A section and the Record of Tasks file.
+
+We received a homework assignment to find an instance where software is used in a profession other than computer science. I completed it [here](https://docs.google.com/presentation/d/1Gt_9hkmF0L5PYeJT3UFmFP-p79ow_6mxtqde2v8eZLA/edit#slide=id.p). We were also told to practice with strings as we may be given a homework on Classroom. Lastly, I want to practice more with Python in general in order to improve my skills.
+
+**Wednesday, February 19th:**
    
    
