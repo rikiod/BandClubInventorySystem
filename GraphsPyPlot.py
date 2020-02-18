@@ -29,6 +29,11 @@ x = np.arange(-10, 10, 0.1) # setting range from -10 to 10 with steps of 0.1
 y = np.sin(0.5 * x) * 14
 pyplot.show()
 
+# alternative way to create steps without using numpy library
+# x = [] 
+# for x in range(2000):
+#     x.append(min + 0.01(i+1))
+
 # graphing a circle (#4)
 fig, ax = pyplot.subplots() # defining a set of axes
 ax.set(xlim=(-10, 10), ylim = (-10, 10)) # setting window of axes
