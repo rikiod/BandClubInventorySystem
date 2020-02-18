@@ -19,4 +19,4 @@ Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC I
 
 
 To Do List:
-TELOS
+TELOS (technological, economic, legal, organization, scheduling)
