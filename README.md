@@ -20,3 +20,6 @@ Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC I
 
 To Do List:
 TELOS (technological, economic, legal, organization, scheduling)
+
+https://business.tutsplus.com/articles/can-we-really-do-it-how-to-conduct-a-telos-feasibility-study--cms-21442
+https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_1_e&part=4&chapter=5
