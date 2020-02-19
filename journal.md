@@ -50,4 +50,10 @@ We received a homework assignment to find an instance where software is used in 
 
 **Wednesday, February 19th:**
    
-   
+Today, we went over our homework assignment which was essentially to graph different functions using Python (see classroom). It was interesting because we learned a new way to graph a sine function, adjusting the length of its step, without using an additional library. From that, we presented our slides on the software a profession uses (I found the one on genetic engineering interesting) and did a Kahoot on software/applications.
+
+After that, we began our project of developing a "bank account" program which can be found in this repository. Currently, it only has the ability to check balance, deposit, and withdraw. For next class, we have an assignment on Classroom which I need to work on and I'd like to read one chapter from the book, "Automate the Boring Stuff with Python."
+
+**Monday, February 24th:**
+
+
