@@ -3,7 +3,16 @@ Criteria A: Planning:
 
 **Definition of Problem:**
 
+Currently, 
+
 **Proposed Solution:**
+
+To see if this proposed solution is feasible or not, I assessed it using the TELOS acronym.
+Technical: 
+Economic:
+Legal:
+Operational:
+Scheduling:
 
 **Criteria for Success:**
 
