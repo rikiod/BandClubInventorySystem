@@ -3,7 +3,7 @@ Unit 3
 
 Documentation of my learning in Python (Unit 3) in the SL IBDP CS Class at UWC ISAK Japan
 
-**Links to repository:**
+## Links to repository:
 
 [Record of Tasks](https://github.com/rikiod/unit3/blob/master/RecordOfTasks.md)
 
