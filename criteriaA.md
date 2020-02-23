@@ -43,3 +43,4 @@ explicitily consult with the emails and have evidence
 descrihe scenario with explicit refernece to (use appendix)
 choose and justify a solution
 outline comprehensive criteria for success based on feedback
+system diagram? (with functions of check out, check in, history, maintenance)
