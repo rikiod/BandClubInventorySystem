@@ -56,4 +56,7 @@ After that, we began our project of developing a "bank account" program which ca
 
 **Monday, February 24th:**
 
+Procedural Programming:
+Object-oriented programming (OOP): describing the world using objects, their roles, and their interactions. 
+GUI: graphical user interface
 
