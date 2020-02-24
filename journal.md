@@ -10,6 +10,7 @@ Unit 3 Journal
   4. Strings
   5. Tuples
   6. Dictionary
+  
    From there, we applied these and practiced a few programs before ending class learning about "bubble sort," an important sorting mechanism.
    
 **Wednesday, February 5th:**
