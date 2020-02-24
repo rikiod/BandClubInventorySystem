@@ -60,3 +60,6 @@ Procedural Programming:
 Object-oriented programming (OOP): describing the world using objects, their roles, and their interactions. 
 GUI: graphical user interface
 
+what'd we do, what'd we learn, what questions do i have?
+hw: object practice
+glossary: data structure, primitive data structure, instance, user defined data structure
