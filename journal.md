@@ -61,5 +61,5 @@ Object-oriented programming (OOP): describing the world using objects, their rol
 GUI: graphical user interface
 
 what'd we do, what'd we learn, what questions do i have?
-hw: object practice
+hw: object practice. bring sketches of the application for your customer (design
 glossary: data structure, primitive data structure, instance, user defined data structure
