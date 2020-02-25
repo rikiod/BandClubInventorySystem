@@ -62,5 +62,9 @@ Object-oriented programming (OOP): describing the world using objects, their rol
 GUI: graphical user interface
 
 what'd we do, what'd we learn, what questions do i have?
-hw: object practice. bring sketches of the application for your customer (design
-glossary: data structure, primitive data structure, instance, user defined data structure
+
+We worked on OOP and basic design sketches. I learned a lot about classes and instances; however, I still have a lot of questions about how to actually institute this in a useful program. I also am still not clear on application, but that should be cleared up with the homework. 
+
+new vocabulary (in glossary): data structure, primitive data structure, instance, user defined data structure
+
+hw: oop worksheet; bring sketches of application 
