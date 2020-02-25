@@ -68,3 +68,7 @@ We worked on OOP and basic design sketches. I learned a lot about classes and in
 new vocabulary (in glossary): data structure, primitive data structure, instance, user defined data structure
 
 hw: oop worksheet; bring sketches of application 
+
+**Wednesday, February 26th:**
+
+
