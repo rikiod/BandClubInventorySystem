@@ -63,7 +63,7 @@ GUI: graphical user interface
 
 what'd we do, what'd we learn, what questions do i have?
 
-We worked on OOP and basic design sketches. I learned a lot about classes and instances; however, I still have a lot of questions about how to actually institute this in a useful program. I also am still not clear on application, but that should be cleared up with the homework. 
+We worked on OOP and basic design sketches. I learned a lot about classes and instances; however, I still have a lot of questions about how to actually institute this in a useful program. I also am still not clear on application, but that should be cleared up with the homework. We also looked at the maxima of a graph; however, that was also confusing. We will learn more about that next class. 
 
 new vocabulary (in glossary): data structure, primitive data structure, instance, user defined data structure
 
