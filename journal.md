@@ -71,4 +71,7 @@ hw: oop worksheet; bring sketches of application
 
 **Wednesday, February 26th:**
 
+Today, we learned about creating a basic UI using OOP. We downloaded QtDesigner and then created a "bitcoin converter." We were then able to convert this graphic UI to a Python script and add our own individual objects. While we finished the UI, we did not finish the stage of adding our own objects. I'm curious as to how we will proceed with that step.
+
+HW: Create user interfaces using QtDesigner for all of the screens in your application sketch from last class. 
 
