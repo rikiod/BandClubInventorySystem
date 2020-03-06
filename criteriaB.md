@@ -1,7 +1,7 @@
-Criteria B: Development
+Criteria B: Design
 =======================
 
-### Early Development
+### Early Design
 
 ![InitialDesignSketch](initialDesignSketchv1.0.jpg)
 
