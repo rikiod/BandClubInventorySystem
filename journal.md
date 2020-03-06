@@ -75,3 +75,9 @@ Today, we learned about creating a basic UI using OOP. We downloaded QtDesigner 
 
 HW: Create user interfaces using QtDesigner for all of the screens in your application sketch from last class. 
 
+**Monday, March 2nd:**
+went over qtdesigner
+coded the currency conversion thing
+
+**Friday, March 6th:**
+free time essentially since the last week was off 
