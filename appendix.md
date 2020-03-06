@@ -3,7 +3,7 @@ Appendix
 
 **February 17th Interview with Client:**
 
-Audio file can be found [here](https://drive.google.com/open?id=1EbuUzuqCEfs5heWXl9OmwkrnYHFIxQuA)
+Audio file can be found [here.](https://drive.google.com/open?id=1EbuUzuqCEfs5heWXl9OmwkrnYHFIxQuA)
 
 Developer: "I have seven different success criteira and I just wanted to run them by you to see what you think if this would really help us to see if our program is working.
 
@@ -72,3 +72,6 @@ Client: I think that's better.
 Developer: Alright, thank you so much.
 
 **March 2nd Consulation with Client:**
+
+Audio file can be found [here.](https://drive.google.com/file/d/1rw79ZjRrTD2VIuh_Bot0Jum8cKlU6a0U/view?usp=sharing)
+
