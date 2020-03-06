@@ -76,8 +76,9 @@ Today, we learned about creating a basic UI using OOP. We downloaded QtDesigner 
 HW: Create user interfaces using QtDesigner for all of the screens in your application sketch from last class. 
 
 **Monday, March 2nd:**
-went over qtdesigner
-coded the currency conversion thing
+
+Today, we met with our client to go over the QTDesigner UI we have created. We also learned about how to code a UI using classes, as done with the example of currency conversion. 
 
 **Friday, March 6th:**
-free time essentially since the last week was off 
+
+The past week, we have been working on coding practice and studying for the upcoming test after spring break; however, today, I also worked on updating my documentation as here in GitHub and further practicing coding through CodingGame.
