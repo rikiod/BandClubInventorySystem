@@ -23,7 +23,18 @@ while 1:
 
 ## The Descent:
 ```.py
+import sys
+import math
 
+while 1:
+    mountain = 0
+    max = 0
+    for i in range(8):
+        mountain_h = int(input()) # represents the height of one mountain, from 9 to 0. Mountain heights are provided from left to right.
+        if mountain_h > mountain:
+            mountain = mountain_h
+            max = i
+    print(max)
 ```
 
 ## Power of Thor Episode 1:
