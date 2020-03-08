@@ -81,4 +81,4 @@ Today, we met with our client to go over the QTDesigner UI we have created. We a
 
 **Friday, March 6th:**
 
-The past week, we have been working on coding practice and studying for the upcoming test after spring break; however, today, I also worked on updating my documentation as here in GitHub and further practicing coding through CodingGame.
+The past week, we have been working on coding practice and studying for the upcoming test after spring break; however, today, I also worked on updating my documentation as here in GitHub and further practicing coding through CodingGame. [Here](https://github.com/rikiod/unit3/blob/master/CodingGamePuzzles.md) is my solutions to the CodingGame problems. 
