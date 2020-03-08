@@ -5,7 +5,7 @@ Coding Game Practice
 
 **Comments about my experience:**
 
-These exercises were ___
+These exercises were fairly simple but seemed to be a bit different than the types of things we do in class. The way that we had to gather the inputs while containing it all inside of a while loop was interesting, and I think this was good additional practice on improving our Python skills. 
 
 ## Onboarding Puzzle:
 ```.py
