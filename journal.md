@@ -82,3 +82,11 @@ Today, we met with our client to go over the QTDesigner UI we have created. We a
 **Friday, March 6th:**
 
 The past week, we have been working on coding practice and studying for the upcoming test after spring break; however, today, I also worked on updating my documentation as here in GitHub and further practicing coding through CodingGame. [Here](https://github.com/rikiod/unit3/blob/master/CodingGamePuzzles.md) are my solutions to the CodingGame problems. 
+
+**Monday, March 9th:**
+
+We began today's class by working on coding our UI. We imported all of our UI files as Python files and then consolidated their classes into one main file called MainApplication.py. I learned that when importing files, they are taken from the outer most file, and as such, they must be found by going into the subfolders. 
+
+We learned the term "modality" and its subterms non-modal, window modal, and application. Non-modal means that the window can be closed (regular windows), window modal means that the window cannot be closed, and application modal means that one window must be done before any other windows are used (ex. press OK to continue to the next window).
+
+
