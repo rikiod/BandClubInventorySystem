@@ -89,6 +89,8 @@ We began today's class by working on coding our UI. We imported all of our UI fi
 
 We learned the term "modality" and its subterms non-modal, window modal, and application. Non-modal means that the window can be closed (regular windows), window modal means that the window cannot be closed, and application modal means that one window must be done before any other windows are used (ex. press OK to continue to the next window).
 
-I also learned that the additional windows need to be created as dialog boxes, not main windows. Otherwise, it is not possible for the application to work.
+I also learned that the additional windows need to be created as dialog boxes, not main windows. Otherwise, it is not possible for the application to work. Something I need to prepare for next class is to change my window modality for the check in.
+
+**Wednesday, March 11th:**
 
 
