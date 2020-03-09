@@ -85,8 +85,10 @@ The past week, we have been working on coding practice and studying for the upco
 
 **Monday, March 9th:**
 
-We began today's class by working on coding our UI. We imported all of our UI files as Python files and then consolidated their classes into one main file called MainApplication.py. I learned that when importing files, they are taken from the outer most file, and as such, they must be found by going into the subfolders. 
+We began today's class by working on coding our UI. We imported all of our UI files as Python files and then consolidated their classes into one main file called MainApplication.py. I learned that when importing files, they are taken from the outer most file, and as such, they must be found by going into the subfolders. Besides that, I learned that the image must be put into an image folder inside of the main project folder in order to be imported correctly. 
 
 We learned the term "modality" and its subterms non-modal, window modal, and application. Non-modal means that the window can be closed (regular windows), window modal means that the window cannot be closed, and application modal means that one window must be done before any other windows are used (ex. press OK to continue to the next window).
+
+I also learned that the additional windows need to be created as dialog boxes, not main windows. Otherwise, it is not possible for the application to work.
 
 
