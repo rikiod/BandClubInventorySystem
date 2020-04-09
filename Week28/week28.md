@@ -5,6 +5,7 @@ Week 28 Syllabus Questions
  For many seniors who may have vision disabilities, mobile devices can often be limited by their small size and thus, inhibit usability. 
 
 2. Construct a truth table for this Boolean expression: (A and B) nor C
+
 | A | B | C | Result |
 |---|---|---|--------|
 | 0 | 0 | 0 | 1      |
