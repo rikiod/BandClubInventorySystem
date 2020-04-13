@@ -91,6 +91,6 @@ We learned the term "modality" and its subterms non-modal, window modal, and app
 
 I also learned that the additional windows need to be created as dialog boxes, not main windows. Otherwise, it is not possible for the application to work. Something I need to prepare for next class is to change my window modality for the check in.
 
-**Wednesday, March 11th:**
+**Sunday, April 12th:**
 
 
