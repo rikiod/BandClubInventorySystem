@@ -91,6 +91,26 @@ We learned the term "modality" and its subterms non-modal, window modal, and app
 
 I also learned that the additional windows need to be created as dialog boxes, not main windows. Otherwise, it is not possible for the application to work. Something I need to prepare for next class is to change my window modality for the check in.
 
-**Sunday, April 12th:**
+**Wednesday, April 8th (Week 28):**
+
+This week's programming practice was good since I had forgotten some basic syntax over spring break. They were not too difficult. 
+
+I like the syllabus questions since I feel like we haven't practiced those sorts of questions very much and I need to practice them more. 
+
+**Tuesday, April 14th (Week 29):**
+
+This week's programming practice was definitely a lot harder than the previous week; however, I thought it was good practice. The syllabus question was nice as well, but I liked the style of last week's more.
+
+Regarding the Unit 3 project, I worked more on the graphic aspects and trying to see how to work on the tables since I don't have a log in system. 
+
+**Tuesday, April 22nd (Week 30):**
+
+This week, we were supposed to think more about our IA. I was thinking about issues I could possibly work on at home here in the US, but decided that it would probably be easier to go with a problem at ISAK. I'm now brainstorming ideas of issues that could be solved here at ISAK (currently thinking about some sort of package mangement system for the main office?). 
+
+We also did some practice with OOP programming, getting our directions from a word problem. I found this pretty similar to just the normal directions. 
+
+**Some date (Week 31**
+ 
+notes to self: We are currently in the midst of week 32 (April 27th - May 1st) -- talk about development of Unit 3 Project (table widget; screen recording)
 
 
