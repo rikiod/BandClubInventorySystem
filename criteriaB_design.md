@@ -21,3 +21,7 @@ After the first rendition of the user interface for the program, I consulted wit
 
 **Fig. 3:** The second rendition of the user interface for the program. After consulting with my client, the colors were changed and her name was added to the top of each window. 
 
+# Design Changes
+
+Due to a lack of developmental tools and time crunch, the maintenance function was removed after a consultation with the client. The client says "we don't perform maintenance that often," and as such, the function is not entirely necessary. 
+
