@@ -27,7 +27,7 @@ This program will be coded in Python because of its status as a commonplace codi
 
 The following success criteria were discussed and approved by the client as seen in the [appendix.](https://github.com/rikiod/unit3/blob/master/appendix.md) It is important to note that communication will be sustained with the client in order to see if any of her needs change and, as such, the success criteria need to change as well. 
 
-1. Must have time stamps so check in and out time can be recorded.
+1. Must have time stamps so check out time can be recorded.
 2. Must have capability to have purpose instrument was taken.
 3. Must have name-recording capability 
 4. Must have capability to track at least 15 instruments
