@@ -16,3 +16,5 @@ Firstly, the two most improvements would be adding a maintenance capability and 
 If time constraints were gone, the table could certainly be made more user friendly. Adding the capability to add more rows (currently, 20 instruments can be recorded) and also adding a "records" function would be nice as well. 
 
 ### Application Video: 
+
+Watch the [video](https://youtu.be/6G70sURpJZw) to see an overview of the functioning application. 
