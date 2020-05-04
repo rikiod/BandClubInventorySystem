@@ -109,8 +109,12 @@ This week, we were supposed to think more about our IA. I was thinking about iss
 
 We also did some practice with OOP programming, getting our directions from a word problem. I found this pretty similar to just the normal directions. 
 
-**Some date (Week 31**
+**May 1st (Week 31)**
  
-notes to self: We are currently in the midst of week 32 (April 27th - May 1st) -- talk about development of Unit 3 Project (table widget; screen recording)
+I finished up the Unit 3 Project development and evaluation. I first had a lot of questions about the table functionality and drop down menus, but decided to completely redesign the application in order to rest solely on the use of a table. This made it easier to get done; however, I had to research a lot about saving that information to a database and such. Besides that, I did the screen recording as well and feel as though I better understand the IA criteria. 
+
+**May 8th (Week 33)**
+
+This week, we began Unit 4. 
 
 
