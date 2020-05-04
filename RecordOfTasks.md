@@ -1,8 +1,6 @@
 Record of Tasks
 ===============
 
-https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_1_e&part=4&chapter=5
-
 | Task Number | Planned Action | Expected Outcome | Time Estimated | Target Completion | Criteria | 
 | :---------: | :------------: | :--------------: | :------------: | :---------------: | :------: |
 | 1 | **Planning:** Meet with client for the first conversation. | Obtain the basic client requirements. Sketch basic system diagram | 30 minutes | Did not come with clear questions, nor did the client have clear requirements --> second meeting required. Details can further be found in the [planning](https://github.com/rikiod/unit3/blob/master/criteriaA_planning.md) section | A | 
