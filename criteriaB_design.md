@@ -25,3 +25,9 @@ After the first rendition of the user interface for the program, I consulted wit
 
 Due to a lack of developmental tools and time crunch, the maintenance function was removed after a consultation with the client. The client says "we don't perform maintenance that often," and as such, the function is not entirely necessary. 
 
+In addition, since the main capability we had learned related to the table widget, the designed had to be changed in order to focus on one page with a main editable table. This still is able to fulfill most of the requirements and is quite user-friendly; however, it is a large change. 
+
+![thirdUI](thirdUI.png)
+
+**Fig. 4** The third and final rendition of the application. It has been trimmed down to only a home page. There is no login necessary for this application because the user wants it to be accessible to everybody. 
+
